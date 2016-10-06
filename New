@@ -1,0 +1,13 @@
+默认规章 路由
+控制器匹配XXXController,XXX 路径XXXController由于是类命名空间找可以放任意位置
+视图（行动）匹配 XXXControlle传入参数的yy.cshtml的yy并且路径只能存于Views目录下的XXXController的对应XXX目录或者统一在Shared目录
+区分大小写
+
+
+vscode launch.json配置调试起始点（项目dll或者自带浏览服务器的路径）
+       task.json配置编译器 其实直接在终端也一样 tsc dotnet
+
+http://www.dailytech5.com/news_show.aspx?id=95146
+mvc下使用usestatic方法才能html js jpg等静态文件 By default, MVC uses only wwwroot folder to serve static files.
+
+
